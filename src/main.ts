@@ -22,7 +22,7 @@ app.use(router);
 app.use(errorHandlerMiddleware());
 app.use(notFoundMiddleware());
 
-// Start listening
+// Start application
 app.listen(process.env.PORT, () => {
   console.log(`🚀 Server ready at http://localhost:${process.env.PORT}`);
 });
