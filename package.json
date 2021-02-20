@@ -1,6 +1,6 @@
 {
   "name": "prisma-express-starter",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "repository": "git@github.com:v1narth/prisma-express-starter.git",
   "license": "MIT",
